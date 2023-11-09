@@ -1,0 +1,28 @@
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment
+venv/
+
+# Ignore Docker-related files
+.DS_Store
+docker-compose.yml
+Dockerfile
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+*.code-workspace
+*.sublime-workspace
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore local development files
+.env
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/

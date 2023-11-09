@@ -1,0 +1,11 @@
+opencv-python
+scikit-learn
+pygame
+SpeechRecognition
+pyaudio
+torch
+transformers
+sounddevice
+soundfile
+gtts
+pydub
